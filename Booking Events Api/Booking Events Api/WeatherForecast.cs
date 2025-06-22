@@ -1,4 +1,4 @@
-namespace Booking_Events_Api
+namespace Booking_Events_API
 {
     public class WeatherForecast
     {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Booking_Events_Api.Controllers
+namespace Booking_Events_API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

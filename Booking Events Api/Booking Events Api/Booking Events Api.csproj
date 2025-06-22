@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Booking_Events_Api</RootNamespace>
+    <RootNamespace>Booking_Events_API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
